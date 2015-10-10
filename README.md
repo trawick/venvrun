@@ -6,7 +6,9 @@
 
 After activating the virtualenv:
 
+```
 $ python setup.py install
+```
 
 ## Use
 
