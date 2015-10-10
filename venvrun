@@ -1,0 +1,4 @@
+#/usr/bin/env bash
+ENV_BIN=`dirname $BASH_SOURCE`
+. ${ENV_BIN}/activate
+exec "$@"
